@@ -1,0 +1,34 @@
+<html> 
+    <head> 
+        <title>SNe point cloud</title> 
+        <style>
+            body {margin:0;}  
+            canvas {width: 100%; height: 100%;}  
+        </style> 
+
+    
+        <!-- three.js is loaded as a module (and import in modules) -->
+        <script type="importmap">
+            {
+                "imports": {
+                    "three": "https://cdn.jsdelivr.net/npm/three@v0.169.0/build/three.module.js",
+                    "three/addons/": "https://cdn.jsdelivr.net/npm/three@v0.169.0/examples/jsm/"
+                }
+            }
+        </script>
+
+        <!-- d3.js is loaded as a module (but does not need to be imported)-->
+        <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+
+        <!-- dat.gui is simply loaded as a library from https://cdnjs.com/libraries/dat-gui-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.7.9/dat.gui.min.js" integrity="sha512-WoO4Ih0CDOSLYafy22wZD/mcJ7k0ESLqtQsFa6zFKnEUrbtuGU+GkLtVhgt93xa2qewG5gKEC6CWlN8OaCTSVg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+
+    </head> 
+    <body> 
+        <script type="module" src="/src/js/params.js"></script>
+        <script type="module" src="/src/js/gui.js"></script>
+        <script type="module" src="/src/js/drawScene.js"></script>
+        <script type="module" src="/src/js/init.js"></script>
+    </body> 
+</html> 
