@@ -1,0 +1,60 @@
+﻿"MPO Region to County Crosswalk (Halter G, Hitchcock A, Kelly T, Mortenson M. 2010 California Regional Progress Report: One State, Many Regions, Our Future: Tracking Progress Toward Sustainability. Sacramento, CA: Applied Development Economics Inc., Collaborative Economics Inc., Information Center for the Environment at UC-Davis, CALTRANS: Division of Transportation Planning; 2010. http://dot.ca.gov/hq/tpp/offices/orip/Collaborative%20Planning/Files/CARegionalProgress_2-1-2011.pdf. Accessed on 7/5/12.)",,,
+County_FIPS,County,MPO Region,MPO_Region_code
+06001,Alameda,Bay Area,1
+06013,Contra Costa,Bay Area,1
+06041,Marin,Bay Area,1
+06055,Napa,Bay Area,1
+06075,San Francisco,Bay Area,1
+06081,San Mateo,Bay Area,1
+06085,Santa Clara,Bay Area,1
+06095,Solano,Bay Area,1
+06097,Sonoma,Bay Area,1
+06007,Butte,Butte,2
+06003,Alpine,Central/Southeast Sierra,3
+06005,Amador,Central/Southeast Sierra,3
+06009,Calaveras,Central/Southeast Sierra,3
+06027,Inyo,Central/Southeast Sierra,3
+06043,Mariposa,Central/Southeast Sierra,3
+06051,Mono,Central/Southeast Sierra,3
+06109,Tuolomne,Central/Southeast Sierra,3
+06053,Monterey,Monterey Bay,4
+06069,San Benito,Monterey Bay,4
+06087,Santa Cruz,Monterey Bay,4
+06015,Del Norte,North Coast,5
+06023,Humboldt,North Coast,5
+06033,Lake,North Coast,5
+06045,Mendocino,North Coast,5
+06105,Trinity,North Coast,5
+06035,Lassen,Northeast Sierra,6
+06049,Modoc,Northeast Sierra,6
+06057,Nevada,Northeast Sierra,6
+06063,Plumas,Northeast Sierra,6
+06091,Sierra,Northeast Sierra,6
+06093,Siskiyou,Northeast Sierra,6
+06011,Colusa,Northern Sacramento Valley,7
+06021,Glenn,Northern Sacramento Valley,7
+06103,Tehama,Northern Sacramento Valley,7
+06017,El Dorado,Sacramento Area,8
+06061,Placer,Sacramento Area,8
+06067,Sacramento,Sacramento Area,8
+06101,Sutter,Sacramento Area,8
+06113,Yolo,Sacramento Area,8
+06115,Yuba,Sacramento Area,8
+06073,San Diego,San Diego,9
+06019,Fresno,San Joaquin Valley,10
+06029,Kern,San Joaquin Valley,10
+06031,Kings,San Joaquin Valley,10
+06039,Madera,San Joaquin Valley,10
+06047,Merced,San Joaquin Valley,10
+06077,San Joaquin,San Joaquin Valley,10
+06099,Stanislaus,San Joaquin Valley,10
+06107,Tulare,San Joaquin Valley,10
+06079,San Luis Obispo,San Luis Obispo,11
+06083,Santa Barbara,Santa Barbara,12
+06089,Shasta,Shasta,13
+06025,Imperial,Southern California,14
+06037,Los Angeles,Southern California,14
+06059,Orange,Southern California,14
+06065,Riverside,Southern California,14
+06071,San Bernardino,Southern California,14
+06111,Ventura,Southern California,14

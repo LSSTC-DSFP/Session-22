@@ -34,7 +34,7 @@ Location: 1800 Sherman Ave Rm 7-600
 * 02:30 PM – 03:30 PM o Problem II: Principles of Perception; A Geller
 * 03:30 PM – 04:00 PM o BREAK
 * 04:00 PM – 05:30 PM o Problem III: ML Enabled Visualization; B Scott
-* 06:30 PM – ??:?? PM o Group Dinner at 
+* 06:30 PM – ??:?? PM o Group Dinner at Five and Dime
 
  
 ## Day 2 – Visualization Tools 
@@ -52,7 +52,7 @@ Location TBA
 * 12:00 PM - 01:00 PM o LUNCH
 * 01:00 PM - 03:20 PM o Lecture IV: PD Talk with Catalyst 
 * 03:20 PM - 04:00 PM o BREAK 
-* 04:00 PM - 04:30 PM o Lecture IV: Introduction to Visualization Tools;
+* 04:00 PM - 04:30 PM o Lecture V: Introduction to Visualization Tools; B Scott
 * 04:30 PM - 05:30 PM o Problem V: Applied Visualization Tools; B Scott 
 
  
@@ -80,14 +80,14 @@ Chicago Architecture Tour - meet at Davis St. Metra Station
 Thursday, October 24, 2024
 Location: 1800 Sherman Ave Rm 7-600
 
-* 09:00 AM – 10:00 AM o Lecture V: Beyond the Pattern, Building an Ethical Framework to Address Bias in Data and Analysis I; T Nichols
+* 09:00 AM – 10:00 AM o Lecture VI: Beyond the Pattern, Building an Ethical Framework to Address Bias in Data and Analysis I; T Nichols
 * 10:00 AM – 10:30 AM o BREAK 
 * 10:30 AM – 12:00 PM o Problem VI: Beyond the Pattern, Building an Ethical Framework to Address Bias in Data and Analysis I; T Nichols
 * 12:00 PM – 01:30 PM o LUNCH
-* 01:30 PM – 02:30 PM o Lecture VI: Beyond the Pattern, Building an Ethical Framework to Address Bias in Data and Analysis II; T Nichols
+* 01:30 PM – 02:30 PM o Lecture VII: Beyond the Pattern, Building an Ethical Framework to Address Bias in Data and Analysis II; T Nichols
 * 02:30 PM – 03:30 PM o Problem VII: Beyond the Pattern, Building an Ethical Framework to Address Bias in Data and Analysis II; T Nichols
 * 03:30 PM – 04:00 PM o BREAK
-* 04:00 PM - 05:00 PM o Lecture VII: Slide Design; A Miller
+* 04:00 PM - 05:00 PM o Lecture VIII/Problem VIII: Slide Design; A Miller
  
 ## Day 5 — GPU Enabled Visualization 
 
@@ -98,12 +98,12 @@ Location: 1800 Sherman Ave Rm 7-600
 Friday, October 25, 2024
 Location: 1800 Sherman Ave Rm 7-600
 
-* 9:00 AM - 10:00  AM o Lecture VIII: Accelerating Visualization Tasks with LLMs; A Forbes 
+* 9:00 AM - 10:00  AM o Lecture IX: Accelerating Visualization Tasks with LLMs; A Forbes 
 * 10:00 AM - 10:30  AM  o BREAK
-* 10:30 AM – 11:30 PM o Problem VIII: Hands on Exercises using LLMs for Visualization; A Forbes 
+* 10:30 AM – 11:30 PM o Problem IX: Hands on Exercises using LLMs for Visualization; A Forbes 
 * 11:30 AM – 01:00 PM o LUNCH 
-* 01:00 PM – 02:00 PM o Lecture IX: Complex Network Reconstruction with Polyphy; A Forbes 
+* 01:00 PM – 02:00 PM o Lecture X: Complex Network Reconstruction with Polyphy; A Forbes 
 * 02:00 PM – 02:30 PM o BREAK
-* 02:30 PM – 04:00 PM o Problem IX: Hands-on Exercises Using Polyphy; A Forbes
+* 02:30 PM – 04:00 PM o Problem X: Hands-on Exercises Using Polyphy; A Forbes
 * 04:00 PM – 04:30 PM o Summary and Reflection 
 

@@ -1,0 +1,28 @@
+﻿Name ,Definition,Type,Width/Format,Coding/Comments
+ind_id,Indicator ID,N,3,752
+ind_definition,Definition of indicator in plain language,T,255,Free text
+reportyear,Year(s) that the indicator was reported,N,4,"2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013"
+race_eth_code,numeric code for a race/ethnicity group,N,1,9=Total
+race_eth_name,Name of race/ethnic group,T,5,Total
+geotype,Type of geographic unit,T,2,"PL: Place (including city, town and census designated places -CDP-); CO: County; RE: region; CA: State"
+geotypevalue,Value of geographic unit,N,5,"5-digit FIPS place code, 5-digit FIPS county code, 2-digit region ID, 2-digit FIPS state code"
+geoname,Name of geographic unit,T,30,"place name, county name, region name, state name"
+county_fips,Name of county that geotype is in,T,25,NA for geotype RE and CA
+county_name,FIPS code of county that geotype is in,T,5,2-digit census state code (06) plus 3-digit census county code
+region_code,MPO-based region name,T,30,See MPO_County List Tab
+region_name,MPO-based region code,T,2,See MPO_County List Tab
+strata_name_code,Code for the strata,N,2,1=Type of violent crime
+strata_name,Name of the strata,T,25,Type of violent crime
+strata_level_name_code,Code for the strata levels,N,2,"1=Aggravated assault, 2=Forcible rape, 3=Murder and non-negligent manslaughter, 4=Robbery, 5=Violent crime total"
+strata_level_name,Nome of the strata levels,T,40,"Aggravated assault, Forcible rape, Murder and non-negligent manslaughter, Robbery, Violent crime total"
+numerator,Number of crimes by type of crime,N,double prec.,
+denominator,Total population as reported by the Federal Bureau of Investigation,N,double prec.,
+rate,"Number of violent crimes per 1,000 population",N,double prec.,"Calculated for the ""Violent crime total"" strata level only"
+ll_95ci,Lower limit of 95% confidence interval,N,double prec.,"Lower limit of 95% confidence interval.  The 95% confidence limits depict the range within which the percentage would probably occur in 95 of 100 sets of data (if data similar to the present set were independently acquired on 100 separate occasions). In five of those 100 data sets, the percentage would fall outside the limits."
+ul_95ci,Upper limit of 95% confidence interval,N,double prec.,Upper limit of 95% confidence interval.  
+se,Standard error of the rate,N,double prec.,The standard error (SE) of the mean is a measure of the precision of the sample mean.  The standard error falls as the sample size increases. (Reference: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1255808/)
+rse,Relative standard error (se/percent * 100) expressed as a percent,N,double prec.,"The relative standard error (RSE) provides the rational basis for determining which rates may be considered “unreliable.” Conforming to National Center for Health Statistics (NCHS) standards, rates that are calculated from fewer than 20 data elements, the equivalent of an RSE of 23 percent or more, are considered unreliable (http://www.cdph.ca.gov/programs/ohir/Documents/OHIRProfiles2014.pdf).  For this project we consider estimates with RSE ≥ 30% as unreliable."
+ca_decile,California decile,N,integer,"'ca_decile' groups places into 10 groups (or deciles) according to the distribution of values of the rate. Highest rate values are included in the first decile.  Equal values or 'ties' are assigned the mean decile rank. For example, in a database of 100 records where 70 records equal 0, 0 values span from the 1st to 7th deciles (70% of all data records). As a result, all 0 values will be assigned to the 4th decile: the mean between the 1st and 7th deciles.  The deciles are only calculated for places and for the violent crimes total strata level."
+ca_rr,Rate ratio to California rate,N ,double prec.,Ratio of local percentage to regional rate. This indicates how many times the local rate is higher or lower than the state rate (Reference: http://health.mo.gov/training/epi/RateRatio-b.html). Values higher than 1 indicate local rates are higher than regional rates.
+dof_population,Total population from the California Department of Finance,N ,double prec.,"Source: California Department of Finance, Demographic Research Unit, http://www.dof.ca.gov/research/demographic/Estimates/.  This variable is included for those who wish to calculate the violent crime rate using Department of Finance population estimats."
+version,Date/time stamp of version of data,D/T,mm/DD/CCYY hh:mm:ss,
