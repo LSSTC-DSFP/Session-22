@@ -1,0 +1,1 @@
+From here [https://github.com/mrdoob/three.js/blob/master/examples/textures/sprites](https://github.com/mrdoob/three.js/blob/master/examples/textures/sprites).
