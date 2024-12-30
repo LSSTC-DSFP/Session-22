@@ -26,14 +26,14 @@ Monday, October 21, 2024
 Location: 1800 Sherman Ave Rm 7-600
 
 * 09:00 AM – 9:30 AM o Welcome!: Code of Conduct Conversation; B Scott
-* 09:30 AM – 10:30 AM o Lecture I: Introduction to Visualization in a Scientific Workflow; B Scott
+* 09:30 AM – 10:30 AM o [Lecture I](Day1/): Introduction to Visualization in a Scientific Workflow; B Scott
 * 10:30 AM – 11:00 AM o BREAK
-* 11:00 AM - 12:00 PM o Problem I: Data Sketches; B Scott
+* 11:00 AM - 12:00 PM o [Problem I](Day1/https://github.com/LSSTC-DSFP/Session-22/blob/main/Day1/dsfp_session_22_data_sketches.ipynb): Data Sketches; B Scott
 * 12:00 PM – 01:30 PM o LUNCH
-* 01:30 PM – 02:30 PM o Lecture II: Principles of Perception; A Geller
+* 01:30 PM – 02:30 PM o [Lecture II](https://github.com/LSSTC-DSFP/Session-22/tree/main/Day1/introduction_to_data_visualization): Principles of Perception [🎥](https://www.youtube.com/watch?v=UE5N8nSEM0U); A Geller
 * 02:30 PM – 03:30 PM o Problem II: Principles of Perception; A Geller
 * 03:30 PM – 04:00 PM o BREAK
-* 04:00 PM – 05:30 PM o Problem III: ML Enabled Visualization; B Scott
+* 04:00 PM – 05:30 PM o [Problem III](https://github.com/LSSTC-DSFP/Session-22/blob/main/Day1/ML_enabled_visualization.ipynb): [ML Enabled Visualization](https://github.com/LSSTC-DSFP/Session-22/blob/main/Day1/VAE_lecture_session22.pdf) [🎥](https://www.youtube.com/watch?v=bA0DRh8Vfxo); B Scott
 * 06:30 PM – ??:?? PM o Group Dinner at Five and Dime
 
  
@@ -46,14 +46,14 @@ Location: 1800 Sherman Ave Rm 7-600
 Tuesday, October 22, 2024
 Location TBA
 
-* 9:00 AM - 10:00 AM o  Lecture III: Introduction to Web Based Visualization; A Geller 
+* 9:00 AM - 10:00 AM o  [Lecture III](https://github.com/LSSTC-DSFP/Session-22/tree/main/Day2/web_based_particle_vis): Introduction to Web Based Visualization [🎥](https://www.youtube.com/watch?v=rgY4r5sJylk); A Geller 
 * 10:00 AM – 10:30 AM o BREAK
 * 10:30 AM - 12:00 PM o  Problem IV: Introduction to Web Based Visualization; A Geller 
 * 12:00 PM - 01:00 PM o LUNCH
 * 01:00 PM - 03:20 PM o Lecture IV: PD Talk with Catalyst 
 * 03:20 PM - 04:00 PM o BREAK 
-* 04:00 PM - 04:30 PM o Lecture V: Introduction to Visualization Tools; B Scott
-* 04:30 PM - 05:30 PM o Problem V: Applied Visualization Tools; B Scott 
+* 04:00 PM - 04:30 PM o [Lecture V](https://github.com/LSSTC-DSFP/Session-22/blob/main/Day2/DSFP_Session_22_Introduction_to_Plotly.ipynb): Introduction to Visualization Tools; B Scott
+* 04:30 PM - 05:30 PM o [Problem V](https://github.com/LSSTC-DSFP/Session-22/blob/main/Day2/DSFP_Session_22_Introduction_to_Plotly_no_solutions.ipynb): Applied Visualization Tools; B Scott 
 
  
 ## Day 3 — Hack Session 
@@ -82,12 +82,12 @@ Location: 1800 Sherman Ave Rm 7-600
 
 * 09:00 AM – 10:00 AM o Lecture VI: Beyond the Pattern, Building an Ethical Framework to Address Bias in Data and Analysis I; T Nichols
 * 10:00 AM – 10:30 AM o BREAK 
-* 10:30 AM – 12:00 PM o Problem VI: Beyond the Pattern, Building an Ethical Framework to Address Bias in Data and Analysis I; T Nichols
+* 10:30 AM – 12:00 PM o [Problem VI](https://github.com/LSSTC-DSFP/Session-22/blob/main/Day4/ProblemVI.ipynb): Beyond the Pattern, Building an Ethical Framework to Address Bias in Data and Analysis I; T Nichols
 * 12:00 PM – 01:30 PM o LUNCH
 * 01:30 PM – 02:30 PM o Lecture VII: Beyond the Pattern, Building an Ethical Framework to Address Bias in Data and Analysis II; T Nichols
-* 02:30 PM – 03:30 PM o Problem VII: Beyond the Pattern, Building an Ethical Framework to Address Bias in Data and Analysis II; T Nichols
+* 02:30 PM – 03:30 PM o [Problem VII](https://github.com/LSSTC-DSFP/Session-22/blob/main/Day4/ProblemVII.ipynb): Beyond the Pattern, Building an Ethical Framework to Address Bias in Data and Analysis II; T Nichols
 * 03:30 PM – 04:00 PM o BREAK
-* 04:00 PM - 05:00 PM o Lecture VIII/Problem VIII: Slide Design; A Miller
+* 04:00 PM - 05:00 PM o [Lecture VIII](https://github.com/LSSTC-DSFP/Session-22/blob/main/Day4/BuildingBetterSlidesViaPrinciplesOfDesign.pdf)|[Problem VIII](https://github.com/LSSTC-DSFP/Session-22/blob/main/Day4/BuildingBetterSlidesProblem.md): Slide Design; A Miller
  
 ## Day 5 — GPU Enabled Visualization 
 
